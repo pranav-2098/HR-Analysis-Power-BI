@@ -1,4 +1,4 @@
-# HR-Analysis-Power-BI
+# HR-Analysis-Power-BI,Excel, Tableau, SQL
 Average Attrition rate for all Departments
 
 Average Hourly rate of Male Research Scientist
